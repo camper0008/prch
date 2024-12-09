@@ -1,0 +1,8 @@
+{
+    "tasks": {
+      "bundle": "deno run -A bundle.ts"
+    },
+    "compilerOptions": {
+        "lib": ["dom", "dom.iterable", "dom.asynciterable", "deno.ns"]
+    }
+}
